@@ -7,5 +7,5 @@ Wanna write an encrypted message to your "Loved Ones" ?
 <br/>Give it to the other person
 <br/>Ask him/her to type decode at the start of the code this time and paste the given "messed up" text
 <br/>And also give her/him the shift number that you used
-<br/Tthen the program will show the intended first message to her/him 
+<br/>Then the program will show the intended first message to her/him 
 <br/>Kinda cool , isn't it ? :)
