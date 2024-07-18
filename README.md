@@ -10,4 +10,5 @@ Wanna write an encrypted message to your "Loved Ones" ?
 <br/>Then the program will show the intended first message to her/him 
 if the running codes locally is too hard for you , just go to this Link : 
 <br/> https://www.online-python.com/74MFLPCj2e
+<br/> And hit the "Run" button at the bottom of that page , just below the code and above yet empty field .
 <br/>Kinda cool , isn't it ? :)
